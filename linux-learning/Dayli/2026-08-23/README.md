@@ -1,6 +1,5 @@
 
 ## Topics Learned
-- Module 2 Introduction
 - Pathnames
 - Copy File
 - Remove File
@@ -10,8 +9,6 @@
 - Wildcards
 - Groups Memberships
 - Quiz 2
-- End of Module 2
-- Module 3 Introduction
 - Home Directories
 - Manual Pages
 - User Information
@@ -22,7 +19,7 @@
 - Print Job Status
 - Cancel Print Job
 - Quiz3
-- End of Module 3
+
 
 ## Resources
-https://linuxsurvival.com/ (done)
+https://linuxsurvival.com/ 

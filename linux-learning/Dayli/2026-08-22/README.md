@@ -1,6 +1,5 @@
 
 ## Topics Learned
-- Module 1 Introduction
 - Directory Structure
 - List Directory
 - View File Contents
@@ -9,6 +8,6 @@
 - Change Directory
 - Get Current Location
 - Quiz 1
-- End of Module 1
+
 ## Resources
 https://linuxsurvival.com/
