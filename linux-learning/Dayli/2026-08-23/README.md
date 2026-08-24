@@ -1,5 +1,5 @@
-
 ## Topics Learned
+
 - Pathnames
 - Copy File
 - Remove File
@@ -20,6 +20,6 @@
 - Cancel Print Job
 - Quiz3
 
-
 ## Resources
-https://linuxsurvival.com/ 
+
+https://linuxsurvival.com/
