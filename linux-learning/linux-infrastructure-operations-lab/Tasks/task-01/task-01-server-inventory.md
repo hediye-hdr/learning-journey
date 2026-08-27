@@ -1,3 +1,4 @@
+# Task 01 — Server Discovery & Inventory
 
 ## Scenario
 
@@ -20,19 +21,15 @@ it is introduced into the company infrastructure.
 - OS: Debian 13
 - Virtualization: VirtualBox
 
-## System Information
+## [[system information.png|System Information]]
+## [[system info2.png]]
 
-![[Pasted image 20260828004100.png]]
-![[Pasted image 20260828004336.png]]
-## Storage
-![[Pasted image 20260828004522.png]]
+## [[storage.png|Storage]]
 
-## Network
-![[Pasted image 20260828004737.png]]
+## [[network.png|network]]
 
-## other
-- Uptime:
-- Current User:
-- Logged-in Users:
-- System State:
-![[Pasted image 20260828010104.png]]
+## [[other.png|uptime]]
+- Uptime
+- Current User
+- Logged-in Users
+- System State
