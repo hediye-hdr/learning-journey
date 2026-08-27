@@ -21,15 +21,30 @@ it is introduced into the company infrastructure.
 - OS: Debian 13
 - Virtualization: VirtualBox
 
-## [[system information.png|System Information]]
-## [[system info2.png]]
+## System Information
 
-## [[storage.png|Storage]]
+- Hostname
+- OS
+- OS Version
+- Kernel
+- Architecture
+- CPU
+- RAM
 
-## [[network.png|network]]
+## Storage
+- Disk
+- Root Filesystem
+- Disk Usage
 
-## [[other.png|uptime]]
-- Uptime
-- Current User
-- Logged-in Users
-- System State
+## Network
+
+- Network Interface
+- IP Address
+- Default Gateway
+- DNS
+
+## Uptime
+## Current User
+## Logged-in Users
+## System State
+
