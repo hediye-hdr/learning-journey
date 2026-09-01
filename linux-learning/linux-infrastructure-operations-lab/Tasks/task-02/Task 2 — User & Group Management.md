@@ -1,6 +1,3 @@
-## Task 2 — User & Group Management
-
-# Task 02 — User & Access Management
 
 ## Scenario
 

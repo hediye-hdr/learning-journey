@@ -1,5 +1,3 @@
-# Task 01 — Server Discovery & Inventory
-
 
 ## Scenario
 ```
