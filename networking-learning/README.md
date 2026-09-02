@@ -5,4 +5,5 @@ My hands-on networking and CCNA learning journey.
 
 - Jeremy's IT Lab
 - Cisco Packet Tracer
-- دوره نت ورک پلاس عباس ولی زاده
+- network+ by Abbas Vlizadeh
+
