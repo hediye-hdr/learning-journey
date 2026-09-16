@@ -23,14 +23,3 @@ Verify the configuration
 Test the configuration after reboot
 
 ```
-## Environment
-
-```
- Operating System: Debian 13
- Virtualization: VirtualBox
- Filesystem: ext4
- Shell: Bash
-
-```
-
-

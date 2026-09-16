@@ -5,5 +5,5 @@ My hands-on networking and CCNA learning journey.
 
 - Jeremy's IT Lab
 - Cisco Packet Tracer
-- network+ by Abbas Vlizadeh
+- network+ / CCNA by Abbas Vlizadeh
 
